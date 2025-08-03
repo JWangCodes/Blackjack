@@ -38,13 +38,24 @@ body{
 
 #hit{
     background-color: lightgreen;
-    color:white
-    
+    color:white;
 }
+#hit:hover{
+    cursor:pointer;
+}
+
 #stay{
     background-color: rgb(197, 63, 63);
-    color: white
+    color: white;
 }
+#stay:hover{
+    cursor:pointer;
+}
+
+#new-game:hover{
+    cursor:pointer;
+}
+
 button{
     font-size: 20px;
 }

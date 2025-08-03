@@ -1,0 +1,67 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    margin: 10px 0; 
+}    
+    
+    
+body{
+    text-align: center;
+    background-color:wheat;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+.container{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.table{
+    display: inline-block;
+    height: 80px;
+    margin: 5px 0;
+    
+}
+
+#dealers-cards img{
+    height: 200px;
+    width: 150px;
+    margin: 1px;
+}
+#your-cards img{
+    height: 200px;
+    width: 150px;
+    margin: 1px;
+}
+
+#hit{
+    background-color: lightgreen;
+    color:white
+    
+}
+#stay{
+    background-color: rgb(197, 63, 63);
+    color: white
+}
+button{
+    font-size: 20px;
+}
+#results{
+    font-size: 25px
+}
+.button-container{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.button-container button{
+    font-size: 18px;
+    padding: 10px 20px;
+    width: 120px;
+}

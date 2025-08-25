@@ -21,6 +21,6 @@ This project shows my ability to solve problems, fix bugs, and build an interact
 ---
 
 ## 🛠 Tech Stack  
-- **JavaScript (ES6)** – game logic and interaction  
+- **JavaScript** – game logic and interaction  
 - **HTML5** – structure and layout  
-- **CSS3** – styling, layout, and responsive elements  
+- **CSS** – styling, layout, and responsive elements  
